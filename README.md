@@ -8,6 +8,9 @@ HTML/CSS/WordPress/JavaScript
 - Anglais
 - Espagnol
 
+Bonjour je m'appelle erwan , je suis actuellement en formation chez Human Booster pour devenir Developpeur Web
+
+
 <!--
 **iNeZiiaaH/iNeZiiaaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
