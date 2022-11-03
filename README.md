@@ -9,8 +9,8 @@
 
 ### Connect with me :
  <a href="https://www.linkedin.com/in/erwan-didillon-développeurweb/"
-  style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" target="_blank" alt="linkedin" height="22px" width="22px" />
+  style='margin-right:10px' target="_blank" >
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px"/>
   </a>
 
 ### Langues et outils :
