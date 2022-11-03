@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-je m'appelle Didillon Erwan
-HTML/CSS/WordPress
+# je m'appelle Didillon Erwan , j'ai 23 ans
+## Mes compétences
+HTML/CSS/WordPress/JavaScript
 
 <!--
 **iNeZiiaaH/iNeZiiaaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
