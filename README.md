@@ -1,12 +1,5 @@
 ### Hi there 👋 , I'm Erwan aka iNeZiiaaH
 
-## En formation
-
-- 🔭 Je suis actuellement en formation chez Human Booster
-- 🎓 Futur Développeur Web
-- 🌱 Actuellement j'apprend le JavaScript/Angular/php
-- 🥅 Objectif 2023: obtenir mon diplôme
-
 ### Connect with me :
  <a href="https://www.linkedin.com/in/erwan-didillon-développeurweb/"
   style='margin-right:10px'>
