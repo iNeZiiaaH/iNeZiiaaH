@@ -1,11 +1,5 @@
 ### Hi there 👋 , I'm Erwan aka iNeZiiaaH
 
-### Connect with me :
- <a href="https://www.linkedin.com/in/erwan-didillon-développeurweb/"
-  style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" target="_blank" height="22px" width="22px"/>
-  </a>
-
 ### Langues et outils :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
