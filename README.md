@@ -13,8 +13,6 @@ Toujours curieux d’apprendre de nouvelles tech et de partager 💡
 
 ## 🧰 Skills
 
-## 🧰 Skills
-
 <p>
 <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
