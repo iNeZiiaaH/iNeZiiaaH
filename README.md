@@ -23,8 +23,6 @@
 
 ---
 
-
-
 ### Frontend
 
 <p align="center">
@@ -77,7 +75,6 @@
 
 ---
 
-
 <div align="center">
   
   <!-- Stats GitHub avec effet 3D -->
@@ -104,9 +101,12 @@
 
 ## 🐍 Contributions
 
-
 <p align="center">
+  <!-- Snake généré par GitHub Actions -->
   <img src="https://raw.githubusercontent.com/iNeZiiaaH/iNeZiiaaH/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  
+  <!-- Alternative si le fichier n'existe pas encore -->
+  <!-- <img src="https://github.com/iNeZiiaaH/iNeZiiaaH/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /> -->
 </p>
 
 ---
