@@ -103,11 +103,14 @@
 
 <p align="center">
   <!-- Snake généré par GitHub Actions -->
-  <img src="https://raw.githubusercontent.com/iNeZiiaaH/iNeZiiaaH/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-  
-  <!-- Alternative si le fichier n'existe pas encore -->
-  <!-- <img src="https://github.com/iNeZiiaaH/iNeZiiaaH/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" /> -->
+  <img src="https://raw.githubusercontent.com/iNeZiiaaH/iNeZiiaaH/main/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
+
+> 💡 **Note** : Si le snake ne s'affiche pas, vérifie que :
+>
+> - Le fichier existe bien dans `output/github-contribution-grid-snake-dark.svg` sur GitHub
+> - La branche principale est bien `main` (sinon remplace `main` par `master` dans l'URL)
+> - Le workflow a bien été exécuté et a commité les fichiers
 
 ---
 
