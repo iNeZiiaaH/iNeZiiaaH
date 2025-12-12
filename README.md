@@ -77,8 +77,7 @@
 
 <div align="center">
   
-  <!-- Stats GitHub avec effet 3D -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iNeZiiaaH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iNeZiiaaH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNeZiiaaH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top langages" />
   
@@ -86,7 +85,6 @@
 
 <div align="center">
   
-  <!-- Streak avec effet 3D -->
   <img src="https://streak-stats.demolab.com?user=iNeZiiaaH&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&ring=10FFEA&fire=10FFEA&currStreakLabel=10FFEA" alt="GitHub streak" />
   
 </div>
@@ -104,7 +102,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/iNeZiiaaH/iNeZiiaaH/main/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
-
 
 ---
 
